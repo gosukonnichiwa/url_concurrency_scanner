@@ -1,0 +1,36 @@
+# Бинарные файлы
+bin/
+dist/
+
+# Файлы IDE
+.idea/
+.vscode/
+
+# Файлы зависимостей
+vendor/
+go.sum
+
+# Временные файлы Go
+*.exe
+*.test
+*.prof
+
+# Логи
+*.log
+*.out
+
+# Файлы окружения
+.env
+.env.local
+
+# Специфичные для ОС файлы
+.DS_Store
+Thumbs.db
+
+# Автогенерируемые файлы
+coverage.html
+profile.out
+
+# Артефакты сборки
+/output/
+/artifacts/
